@@ -1,1 +1,1 @@
-JavaSCript learning on Linkedin
+JavaScript learning through Linkedin
